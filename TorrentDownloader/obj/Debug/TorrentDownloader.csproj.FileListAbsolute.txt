@@ -1,0 +1,9 @@
+C:\Users\Chipmunk\source\repos\TorrentDownloader\TorrentDownloader\bin\Debug\TorrentDownloader.exe
+C:\Users\Chipmunk\source\repos\TorrentDownloader\TorrentDownloader\bin\Debug\TorrentDownloader.pdb
+C:\Users\Chipmunk\source\repos\TorrentDownloader\TorrentDownloader\obj\Debug\TorrentDownloader.csprojResolveAssemblyReference.cache
+C:\Users\Chipmunk\source\repos\TorrentDownloader\TorrentDownloader\obj\Debug\TorrentDownloader.Form1.resources
+C:\Users\Chipmunk\source\repos\TorrentDownloader\TorrentDownloader\obj\Debug\TorrentDownloader.Properties.Resources.resources
+C:\Users\Chipmunk\source\repos\TorrentDownloader\TorrentDownloader\obj\Debug\TorrentDownloader.csproj.GenerateResource.Cache
+C:\Users\Chipmunk\source\repos\TorrentDownloader\TorrentDownloader\obj\Debug\TorrentDownloader.csproj.CoreCompileInputs.cache
+C:\Users\Chipmunk\source\repos\TorrentDownloader\TorrentDownloader\obj\Debug\TorrentDownloader.exe
+C:\Users\Chipmunk\source\repos\TorrentDownloader\TorrentDownloader\obj\Debug\TorrentDownloader.pdb
