@@ -23,7 +23,7 @@ namespace TorrentDownloader
         {
             String html = client.GetHttpResponse("https://torrentkim12.com/bbs/s.php?k=%EA%B0%80%EC%9A%94%EB%8C%80%EC%A0%84&b=&q=", "");
 
-
+            String[] results = html.Split(new string[] { "<td class=\"subject\">" }, StringSplitOptions.None);
         }
     }
 }
